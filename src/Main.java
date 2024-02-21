@@ -21,7 +21,7 @@ public class Main {
                 if (day >= 22) {
                     System.out.print("Your zodiac sign is Aquarius.");
                 } else {
-                    System.out.println("Your zodiac sign is Capricorn.");
+                    System.out.print("Your zodiac sign is Capricorn.");
                 }
             }
         } else if (month == 2) {
@@ -37,7 +37,7 @@ public class Main {
                 if (day >= 21) {
                     System.out.print("Your zodiac sign is Aries.");
                 } else {
-                    System.out.println("Your zodiac sign is Pisces.");
+                    System.out.print("Your zodiac sign is Pisces.");
                 }
             }
         } else if (month == 4) {
@@ -83,7 +83,7 @@ public class Main {
         } else if (month == 9) {
             if (day >= 1 && day <= 30) {
                 if (day >= 23) {
-                    System.out.println("Your zodiac sign is Libra.");
+                    System.out.print("Your zodiac sign is Libra.");
                 } else {
                     System.out.print("Your zodiac sign is Virgo.");
                 }
